@@ -1,6 +1,6 @@
 {
-    "name": "login_screen",
-    "short_name": "login_screen",
+    "name": "clock",
+    "short_name": "clock",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
